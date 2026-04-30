@@ -40,4 +40,4 @@ Analyze customer behavior and revenue trends to identify churn and provide busin
 ## 📸 Dashboard Preview
 (Add your screenshot here)
 
-![Dashboard](https://github.com/MohanaThanmai/customer-churn-analysis-powerbi-sql/raw/main/Screenshot%20(192).png)
+![Dashboard](https://github.com/MohanaThanmai/customer-churn-analysis-powerbi-sql/blob/main/Screenshot%20(192).png)
