@@ -39,3 +39,5 @@ Analyze customer behavior and revenue trends to identify churn and provide busin
 
 ## 📸 Dashboard Preview
 (Add your screenshot here)
+
+![Dashboard](
